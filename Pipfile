@@ -9,6 +9,8 @@ djangorestframework = "*"
 djoser = "*"
 bleach = "*"
 dj-rest-auth = "*"
+filters = "*"
+django-filter = "*"
 
 [dev-packages]
 
