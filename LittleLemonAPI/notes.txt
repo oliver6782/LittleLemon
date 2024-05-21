@@ -1,2 +1,8 @@
 superuser : admin
 password : LittleLemon!
+
+user : Oliver
+password : LittleLemon!
+
+user : Jerry
+password : LittleLemon!
